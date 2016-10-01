@@ -1,0 +1,98 @@
+body{
+
+}
+.image1{
+  text-align: center;
+}
+.img1{
+    border-radius: 6px;
+    height: 200px;
+    width: 250px;
+}
+#name{
+  margin-top: 10px;
+  font-size: 22px;
+  color: #000;
+}
+h2{
+  text-align: center;
+  color: teal;
+  line-height: 30px;
+}
+.projectscontainer{
+background: url(../images/intro-bg.jpg) no-repeat center center fixed;
+background-size: cover;
+height: 1700px;
+}
+.left{
+
+  height: 80px;
+  width: 150px;
+  margin-left: 20px;
+  position: absolute;
+  margin-top: 30px;
+  text-align: center;
+
+}
+.right{
+  height: 80px;
+  width: 900px;
+  margin-left: 170px;
+  position: absolute;
+  margin-top: 30px;
+}
+.proj{
+  height: 150px;
+}
+#projectsheader, #aboutme{
+  height: 50px;
+  border-bottom: 1px solid teal;
+  width: 500px;
+  margin-left: 30%;
+  margin-bottom:20px;
+
+}
+p{
+  text-align: center;
+  color: #fff;
+  font-size: 16px;
+}
+h3{
+  color: #fff;
+}
+a{
+  color: purple;
+}
+a:hover, a:focus{
+  color: #fff;
+}
+#head{
+  color: #000;
+  text-align: left;;
+}
+.background{
+  text-align: center;
+  height: 250px;
+  margin-left: 30%;
+  width: 450px;
+}
+.interests{
+  text-align: center;
+  height: 300px;
+  margin-left: 30%;
+  width: 450px;
+}
+h4{
+  color: teal;
+}
+.listinterests{
+  text-align: left;
+}
+.pdetails{
+  color: #000;
+}
+.footer{
+  height: 100px;
+  background: url(../images/bg1.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
